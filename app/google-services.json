@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455860295522",
+    "project_id": "tekscore",
+    "storage_bucket": "tekscore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455860295522:android:b086b5154e16ca25aabe3b",
+        "android_client_info": {
+          "package_name": "com.example.tekscore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455860295522-otodq11ljl1kpr1v82ls1eh4a6g5pbes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVysTA86x5rBx0Sp1Ry8Rb1G8tsBFTc_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455860295522-otodq11ljl1kpr1v82ls1eh4a6g5pbes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

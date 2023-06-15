@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_timetable"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Time Table" />
+        <item
+            android:id="@+id/menu_marks"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Marks" />
+        <!-- Add more menu items as needed -->
+    </group>
+
+</menu>
